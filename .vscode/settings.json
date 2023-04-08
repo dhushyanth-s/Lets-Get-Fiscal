@@ -1,0 +1,4 @@
+{
+  "dart.additionalAnalyzerFileExtensions": ["drift"],
+  "cmake.configureOnOpen": false
+}
